@@ -79,12 +79,13 @@ export default function JudgesSection() {
         {/* Title */}
         <div className="text-center mb-8 px-4">
           <h2
-            className={`${pressStart.className} text-[clamp(1.6rem,5vw,3.75rem)] text-white tracking-wider`}
+            className={`${pressStart.className} text-[clamp(1.5rem,4.2vw,3.2rem)] text-white tracking-wide`}
             style={{
               textShadow: "0 0 15px rgba(255, 255, 255, 0.5)",
+              wordSpacing: "-10px",
             }}
           >
-           PREVIOUS JUDGES AND SPEAKERS
+            PREVIOUS JUDGES AND SPEAKERS
           </h2>
         </div>
 
