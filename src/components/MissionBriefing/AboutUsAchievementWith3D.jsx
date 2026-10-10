@@ -331,21 +331,25 @@ const targetRotY = baseY + mouseRef.current.x * 0.25;
               </h3>
             <div className={`${styles.aboutText} cursor-target `}>
               <p>
-                  In the neon glow of Eternum’s endless corridors, a new era of
-                  Electrothon powers up. The screens flicker, the circuits hum,
-                  and the pixelated gates of the Labyrinth swing open for those
-                  daring enough to enter. Here, every coder is a player, every
-                  idea a power-up, and every challenge a boss fight waiting to
-                  be conquered.
+                  Long before a legend finds its name, it exists only as a whisper
+                  carried by the wind, a spark sleeping beneath the ashes, a dream
+                  waiting for someone brave enough to give it form. Beneath the 
+                  crimson skies of an ancient land, where steel is tempered by fire
+                  and honor is carved into the soul, a new chapter of Electrothon begins.
+                  Here, minds gather like warriors beneath a common banner, each carrying
+                  an idea that could change the world, each standing before the unknown 
+                  with nothing but courage and the will to create.
               </p>
               <p>
-                  Within the Hall of Circuits, echoes of past champions still
-                  pulse like 8-bit heartbeats. They navigated every twist,
-                  cracked every code, and pushed the machine to its very limit.
-                  This spring, join North India's biggest hackathon as the
-                  Labyrinth of Eternum is set to be bigger, brighter, and far
-                  more unpredictable. Once again, we call upon the next
-                  generation of builders, breakers, dreamers, and doers.
+                  The scroll remains untouched, awaiting the first stroke that will turn
+                  silence into story. At Electrothon, ideas become the ink of a new era,
+                  challenges the trials that shape the spirit, and creation the path to 
+                  a legacy yet unknown. Like the samurai who tempers steel through fire 
+                  and countless strikes, we believe greatness is forged through persistence, 
+                  courage, and the will to rise after every fall. For the future belongs not
+                  to those who wait for legends to unfold, but to those bold enough to write them. 
+                  **The ink is yours. The path is unwritten. Let eternity remember what you create.**
+                  
               </p>
             </div>
             <div className={styles.achievementInline}>
