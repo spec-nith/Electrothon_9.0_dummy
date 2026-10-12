@@ -67,7 +67,7 @@ export default function Preloader({ children }) {
           </div>
           
           <p className="mt-12 text-white font-mono text-xs tracking-[0.5em] animate-pulse">
-            BOOTING ELECTROTHON 8.0...
+            BOOTING ELECTROTHON 9.0...
           </p>
         </div>
       )}
