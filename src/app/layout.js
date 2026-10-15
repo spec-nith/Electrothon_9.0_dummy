@@ -21,7 +21,7 @@ export const metadata = {
     "Electrothon",
     "Electrothon 9.0",
     "Hackathon",
-    "Labyrinth of Eternum",
+    "Kintsugi of Paragons",
     "SPEC NITH",
     "SPEC",
     "NIT Hamirpur Hackathon",
@@ -33,7 +33,7 @@ export const metadata = {
   authors: [{ name: "Team SPEC" }],
 
   openGraph: {
-    title: "Electrothon 9.0 | Labyrinth of Eternum",
+    title: "Electrothon 9.0 | Kintsugi of Paragons",
     description:
       "As the screen flickers to life, a new chapter of Electrothon begins. Within this labyrinth, progress belongs to those who sense the pattern, master the turns, and endure the chase. What appears as play soon reveals itself as a trial of logic and ingenuity, where every move shapes the outcome. Under the banner of SPEC, NIT Hamirpur, Electrothon has drawn thousands of creators into its ever-evolving maze. Those who have ventured through its levels before left their mark on its circuitry, forging a legacy etched in code. Now, the labyrinth resets once more, its cycle unbroken, ready to challenge the next generation to beat the system and redefine what's possible.",
     url: "https://electrothon.nith.ac.in/",
