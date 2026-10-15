@@ -58,7 +58,7 @@ export default function MissionBriefing() {
                   pulse like 8-bit heartbeats. They navigated every twist,
                   cracked every code, and pushed the machine to its very limit.
                   This spring, join North India's biggest hackathon as the
-                  Labyrinth of Eternum is set to be bigger, brighter, and far
+                  Kintsugi of Paragons is set to be bigger, brighter, and far
                   more unpredictable. Once again, we call upon the next
                   generation of builders, breakers, dreamers, and doers.
                 </p>
