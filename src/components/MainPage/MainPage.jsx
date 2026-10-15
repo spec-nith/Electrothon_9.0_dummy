@@ -99,7 +99,7 @@ export default function MainPage() {
                        mt-4 tracking-wide
                        text-[18px] sm:text-[16px] md:text-[24px] lg:text-[32px] xl:text-[40px] cursor-target"
           >
-            LABYRINTH OF ETERNUM
+            KINTSUGI OF PARAGONS
           </h2>
 
           <Devfolio_Button />
